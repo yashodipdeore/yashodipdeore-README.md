@@ -39,7 +39,7 @@ I enjoy solving real-world problems through technology while continuously learni
 
 | 🚀                    |                                           |
 | :-------------------- | :---------------------------------------- |
-| 🎓 Education          | B.Sc. Computer Science (AI, ML & VR)      |
+| 🎓 Education          | BCA                                       |
 | 💻 Focus              | Backend & Full Stack Development          |
 | 🌱 Currently Learning | NestJS, System Design, AI Engineering     |
 | 🤖 Interested In      | AI, SaaS, Cloud Computing                 |
